@@ -27,7 +27,7 @@ public class Stackmain {
                     System.exit(0);
                     break;
                 default:
-                    System.out.println("Please Enter valid choice ");
+                    System.out.println("Please Enter a valid choice ");
             }
         }
     }
